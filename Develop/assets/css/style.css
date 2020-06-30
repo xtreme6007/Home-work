@@ -86,10 +86,7 @@ p {
     background-color: #2589bd;
 }
 /* side */ /* you could also create one class for them all and replace the classes in the html document */
-.benefit-brand,
-.benefit-cost,
-.benefit-lead
-{
+.white {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -130,7 +127,17 @@ h3 {
     max-height: 200px;
 }
 
-h2 {
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
