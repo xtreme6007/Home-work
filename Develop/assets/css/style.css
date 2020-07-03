@@ -126,7 +126,7 @@ h3 {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* main classes h2 */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -142,7 +142,7 @@ h3 {
     font-size: 36px;
 }
 
-
+/* footer */
 footer {
     padding: 30px;
     clear: both;
